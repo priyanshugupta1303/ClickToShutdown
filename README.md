@@ -1,5 +1,6 @@
 # ClickToShutdown
 
-Just Click and It shutdowns your Windows Computer.
+Just Click and this Batch file will shutdown your Windows pc.
 
 Remember it doesn't closes your running applications.
+
